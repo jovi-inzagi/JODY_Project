@@ -1,0 +1,113 @@
+{
+    "dataSekolah": [{
+        "propinsi": "Jawa Barat",
+        "kode_kab_kota": "32",
+        "kabupaten_kota": "Bandung",
+        "kecamatan": "Coblong",
+        "npsn": "12345678",
+        "sekolah": "Sekolah Dasar Negeri 01",
+        "bentuk": "Negeri",
+        "alamat_jalan": "Jalan Merdeka No. 1",
+        "lintang": "-6.9039",
+        "bujur": "107.610",
+        "image": "https://drive.google.com/uc?export=view&id=1yPqPfqJryoDIrCOf6vIvg8qpNIDhWZ4g"
+        },
+        {
+            "propinsi": "Jawa Timur",
+            "kode_kab_kota": "32",
+            "kabupaten_kota": "Surabaya",
+            "kecamatan": "Kenjeran",
+            "npsn": "23456789",
+            "sekolah": "Sekolah Menengah Atas Negeri 01",
+            "bentuk": "Negeri",
+            "alamat_jalan": "Jalan Pahlawan No. 10",
+            "lintang": "-7.2504",
+            "bujur": "112.768",
+            "image": "https://drive.google.com/uc?export=view&id=1yPqPfqJryoDIrCOf6vIvg8qpNIDhWZ4g"
+
+        },
+        {
+            "propinsi": "Jawa Tengah",
+            "kode_kab_kota": "33",
+            "kabupaten_kota": "Semarang",
+            "kecamatan": "Genuk",
+            "npsn": "34567890",
+            "sekolah": "Sekolah Dasar Swasta 01",
+            "bentuk": "Swasta",
+            "alamat_jalan": "Jalan Sutomo No. 5",
+            "lintang": "-6.9667",
+            "bujur": "110.417",
+        "image": "https://drive.google.com/uc?export=view&id=1yPqPfqJryoDIrCOf6vIvg8qpNIDhWZ4g"
+            
+        },
+        {
+            "propinsi": "Banten",
+            "kode_kab_kota": "18",
+            "kabupaten_kota": "Serang",
+            "kecamatan": "Curug",
+            "npsn": "45678901",
+            "sekolah": "Sekolah Menengah Atas Swasta 01",
+            "bentuk": "Swasta",
+            "alamat_jalan": "Jalan Raya Serang No. 15",
+            "lintang": "-6.1103",
+            "bujur": "106.150",
+        "image": "https://drive.google.com/uc?export=view&id=1yPqPfqJryoDIrCOf6vIvg8qpNIDhWZ4g"
+            
+        },
+        {
+            "propinsi": "DKI Jakarta",
+            "kode_kab_kota": "31",
+            "kabupaten_kota": "Jakarta Selatan",
+            "kecamatan": "Pondok Indah",
+            "npsn": "56789012",
+            "sekolah": "Sekolah Menengah Kejuruan Negeri 01",
+            "bentuk": "Negeri",
+            "alamat_jalan": "Jalan Metro Pondok Indah No. 20",
+            "lintang": "-7.2132",
+            "bujur": "307.185",
+        "image": "https://drive.google.com/uc?export=view&id=1yPqPfqJryoDIrCOf6vIvg8qpNIDhWZ4g"
+            
+        },
+        {
+            "propinsi": "Jawa Barat",
+            "kode_kab_kota": "5678",
+            "kabupaten_kota": "Bandung",
+            "kecamatan": "Coblong",
+            "npsn": "789012",
+            "sekolah": "Sekolah Dasar Negeri Coblong 1",
+            "bentuk": "SD Negeri",
+            "alamat_jalan": "Jalan Raya Coblong 456",
+            "lintang": "-6.903953",
+            "bujur": "107.61092",
+            "image": "https://drive.google.com/uc?export=view&id=1yPqPfqJryoDIrCOf6vIvg8qpNIDhWZ4g"
+
+        },
+        {
+            "propinsi": "Jawa Tengah",
+            "kode_kab_kota": "9012",
+            "kabupaten_kota": "Semarang",
+            "kecamatan": "Genuk",
+            "npsn": "234567",
+            "sekolah": "Sekolah Dasar Negeri Genuk 1",
+            "bentuk": "SD Negeri",
+            "alamat_jalan": "Jalan Raya Genuk 789",
+            "lintang": "-6.967676",
+            "bujur": "110.420758",
+        "image": "https://drive.google.com/uc?export=view&id=1yPqPfqJryoDIrCOf6vIvg8qpNIDhWZ4g"
+            
+        },
+        {
+            "propinsi": "Sumatera Utara",
+            "kode_kab_kota": "3456",
+            "kabupaten_kota": "Medan",
+            "kecamatan": "Babura",
+            "npsn": "345678",
+            "sekolah": "Sekolah Dasar Negeri Babura 1",
+            "bentuk": "SD Negeri",
+            "alamat_jalan": "Jalan Raya Babura 012",
+            "lintang": "3.597031",
+            "bujur": "98.678567",
+        "image": "https://drive.google.com/uc?export=view&id=1yPqPfqJryoDIrCOf6vIvg8qpNIDhWZ4g"
+            
+        }]
+}
