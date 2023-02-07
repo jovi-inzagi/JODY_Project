@@ -1,2 +1,2 @@
 # JODY_Project
-Tugas Besar Mata Kluiah Pemrograman Fungsional (Study Case HoF dan Web Service)
+Tugas Besar Mata Kuliah Pemrograman Fungsional (Study Case HoF dan Web Service)
