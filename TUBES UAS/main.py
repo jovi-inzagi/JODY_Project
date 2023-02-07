@@ -12,7 +12,7 @@ with open('data.json') as f:
 
 # print(data)
 
-asu = []
+JODY = []
 for sekolah in data['dataSekolah']:
     list_data = {}
 
@@ -29,7 +29,7 @@ for sekolah in data['dataSekolah']:
     list_data['image'] = sekolah['image']
     # print(sekolah['image'])
     # print("image")
-    asu.append(list_data)
+    JODY.append(list_data)
 
 
 # f = urllib.request.urlopen(data).read().decode()
@@ -79,9 +79,8 @@ for sekolah in data['dataSekolah']:
 
 @aplikasi.route('/')
 def home():
-    return render_template('index.html', sekolah = asu, judul = 'home')
-# print(asu)
-
+    return render_template('index.html', sekolah = JODY, judul = 'home')
+# print(JODY)
 
 # @aplikasi.route('/cari_sekolah', methods = ['POST', 'GET'])
 # def cari_sekolah():
